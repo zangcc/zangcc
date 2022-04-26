@@ -1,4 +1,4 @@
-![Image text](https://raw.githubusercontent.com/siddharthkp/siddharthkp/master/britney.gif)
+![Image text](https://github.com/zangcc/images/blob/main/britney.gif)
 
 ### Hi there , I'm zangcc 👋
 
