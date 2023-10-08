@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 不再挖洞，努力coding..
 - 自述
-- 一直以来把编程当成业余爱好，非专业编程，所有的都是一时兴起用代码来实现的小工具，所以很多bug可以issues向我提问。
+- I have always regarded programming as a hobby, non-professional programming, all are small tools implemented with code on a whim, so you can issue questions to me for many bugs.
 
 Github State
 
