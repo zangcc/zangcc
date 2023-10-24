@@ -11,7 +11,7 @@
 - 📫 How to reach me: ([😄My CSDN Blog~](https://blog.csdn.net/weixin_43847838?spm=1010.2135.3001.5343))
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 不再挖洞，努力coding..
-- Eureka安全团队
+- 🫡 wx：Eureka安全团队
 - I have always regarded programming as a hobby, non-professional programming, all are small tools implemented with code on a whim, so you can issue questions to me for many bugs.
 
 Github State
