@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on: Penetration test
-- 🌱 I’m currently learning: JavaFX
+- 🌱 I’m currently learning: Codeql/Java code audit
 - 👯 I’m looking to collaborate on: Vulnerability scanning tool programming
 - 🤔 I’m looking for help with: There is nothing for the time being
 - 💬 Ask me about: Network security, penetration testing, design and implementation of vulnerability scanning tool based on JavaFX
