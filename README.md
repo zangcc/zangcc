@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on: Ideas and suggestions for vulnerability scanning tool development, intending to develop a large integrated vulnerability scanning tool
 - 🤔 I’m looking for help with: There is nothing for the time being
 - 💬 Ask me about: Network security, penetration testing, design and implementation of vulnerability scanning tool based on JavaFX
-- 📫 How to reach me: ([😄My Blog~](https://blog.csdn.net/weixin_43847838?spm=1010.2135.3001.5343](https://blog.csdn.net/weixin_43847838?type=blog)))
+- 📫 How to reach me: ([😄My Blog~](https://www.yuque.com/zangcc_eureka))
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Security research, code analysis, and fitness🏋🏻💪🏻...
 - 🫡 微信公众号：Eureka安全
