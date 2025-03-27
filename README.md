@@ -11,7 +11,7 @@
 - 📫 How to reach me: ([😄My Blog~](https://www.yuque.com/zangcc_eureka))
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Security research, code analysis, and fitness🏋🏻💪🏻...
-- 🫡 ==微信公众号：Eureka安全==
+- 🫡 **微信公众号：Eureka安全**
 - I have always regarded the development of security tools as a personal hobby. I am not a professional programmer. The tools in my github repository are vulnerability scanning tools that I developed on a whim, so there may be many bugs or deficiencies. You are welcome to post to me for consultation or provide optimization suggestions.
 
 Github State
